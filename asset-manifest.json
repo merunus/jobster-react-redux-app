@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jobster-react-redux-app/static/css/main.bfc991fb.css",
+    "main.js": "/jobster-react-redux-app/static/js/main.346ce478.js",
+    "static/media/main.svg": "/jobster-react-redux-app/static/media/main.17b316de742b3a1202078c5ae18c8261.svg",
+    "static/media/not-found.svg": "/jobster-react-redux-app/static/media/not-found.5cfa24fa5e3ca7dffe02f358358ea9df.svg",
+    "static/media/logo.svg": "/jobster-react-redux-app/static/media/logo.35bb8e1d9b5745af32ff148cbee51dfa.svg",
+    "index.html": "/jobster-react-redux-app/index.html",
+    "main.bfc991fb.css.map": "/jobster-react-redux-app/static/css/main.bfc991fb.css.map",
+    "main.346ce478.js.map": "/jobster-react-redux-app/static/js/main.346ce478.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfc991fb.css",
+    "static/js/main.346ce478.js"
+  ]
+}
